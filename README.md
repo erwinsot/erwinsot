@@ -1,7 +1,7 @@
 # Hi There 👋 
 
 ## I'm Erwin
-🖥️ I'm a Systems and Computer Engineer with a specialized focus on backend development using Java and Spring Boot. I enjoy creating robust and efficient applications that meet client needs. I have experience in designing and implementing RESTful APIs, as well as integrating with both relational and non-relational databases.
+🍀I'm a Systems and Computer Engineer with a specialized focus on backend development using Java and Spring Boot. I enjoy creating robust and efficient applications that meet client needs. I have experience in designing and implementing RESTful APIs, as well as integrating with both relational and non-relational databases. 🍃
 
 - 🌿**Programming Languages:** Java ♨️, JavaScript 
 - **Backend Frameworks and Technologies:** </> Spring Boot, Spring MVC, Hibernate
