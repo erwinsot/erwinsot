@@ -1,5 +1,5 @@
 ### Hi there 👋
-# ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy Erwin 
 
 ## Sobre mí
 Soy un estudiante de ingeniería apasionado por el desarrollo de software, especialmente en el área de machine learning y backend. Disfruto explorando nuevas tecnologías y enfrentando desafíos técnicos que me permitan crecer como profesional.
