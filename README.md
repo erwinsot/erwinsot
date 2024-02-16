@@ -5,20 +5,20 @@
 Soy un estudiante de ingeniería apasionado por el desarrollo de software, especialmente en el área de machine learning y backend. Disfruto explorando nuevas tecnologías y enfrentando desafíos técnicos que me permitan crecer como profesional.
 
 ## Mis habilidades
-- **Lenguajes de programación:** Python, Java, C++
-- **Machine Learning:** TensorFlow, Scikit-learn, Keras
-- **Desarrollo Backend:** Flask, Django, Express.js
+- **Lenguajes de programación:** Java, JavaScript
+- **Frameworks y tecnologías backend:** Spring Boot, Spring MVC, Hibernate
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB
-- **Herramientas de control de versiones:** Git, GitHub
+- **Herramientas de desarrollo:** Git, Maven, Docker
+- **Otras habilidades:** Arquitectura de microservicios, DevOps
 
 ## Proyectos destacados
-### Proyecto 1: Sistema de recomendación de películas
-- Descripción: Desarrollé un sistema de recomendación de películas basado en filtrado colaborativo utilizando la biblioteca Surprise en Python.
-- Tecnologías utilizadas: Python, Surprise, Flask, PostgreSQL
+### Proyecto 1: Sistema de gestión de inventario
+- Descripción: Desarrollé un sistema de gestión de inventario para una empresa minorista utilizando Spring Boot y MySQL. La aplicación permite realizar operaciones CRUD sobre productos y generar informes de inventario.
+- Tecnologías utilizadas: Java, Spring Boot, MySQL, Hibernate
 
-### Proyecto 2: API REST para gestión de usuarios
-- Descripción: Creé una API REST para la gestión de usuarios que permite registrar, autenticar y gestionar perfiles de usuarios utilizando Flask y JWT para la autenticación.
-- Tecnologías utilizadas: Python, Flask, JWT, SQLAlchemy, SQLite
+### Proyecto 2: Plataforma de reserva de vuelos
+- Descripción: Participé en el desarrollo del backend de una plataforma de reserva de vuelos utilizando Spring Boot y MongoDB para almacenar la información de los vuelos y los usuarios.
+- Tecnologías utilizadas: Java, Spring Boot, MongoDB, Spring Security
 
 ## Educación
 - Estudiante de Ingeniería en Universidad Nacional de Colombia
