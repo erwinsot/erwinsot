@@ -1,47 +1,36 @@
-### Hi there 👋
-# ¡Hola! Soy Erwin 
+# Hello! I'm [Your Name]
 
-## Sobre mí
-Soy un estudiante de ingeniería apasionado por el desarrollo de software, especialmente en el área de machine learning y backend. Disfruto explorando nuevas tecnologías y enfrentando desafíos técnicos que me permitan crecer como profesional.
+## About Me
+I'm a student of engineering with a specialized focus on backend development using Java and Spring Boot. I enjoy crafting robust and efficient applications that meet client needs. I have experience in designing and implementing RESTful APIs, as well as integrating with both relational and non-relational databases.
 
-## Mis habilidades
-- **Lenguajes de programación:** Java, JavaScript
-- **Frameworks y tecnologías backend:** Spring Boot, Spring MVC, Hibernate
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB
-- **Herramientas de desarrollo:** Git, Maven, Docker
-- **Otras habilidades:** Arquitectura de microservicios, DevOps
+## My Skills
+- **Programming Languages:** Java, JavaScript
+- **Backend Frameworks and Technologies:** Spring Boot, Spring MVC, Hibernate
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Development Tools:** Git, Maven, Docker
+- **Other Skills:** Microservices Architecture, DevOps
 
-## Proyectos destacados
-### Proyecto 1: Sistema de gestión de inventario
-- Descripción: Desarrollé un sistema de gestión de inventario para una empresa minorista utilizando Spring Boot y MySQL. La aplicación permite realizar operaciones CRUD sobre productos y generar informes de inventario.
-- Tecnologías utilizadas: Java, Spring Boot, MySQL, Hibernate
+## Featured Projects
+### Project 1: Inventory Management System
+- Description: I developed an inventory management system for a retail company using Spring Boot and MySQL. The application allows CRUD operations on products and generates inventory reports.
+- Technologies Used: Java, Spring Boot, MySQL, Hibernate
 
-### Proyecto 2: Plataforma de reserva de vuelos
-- Descripción: Participé en el desarrollo del backend de una plataforma de reserva de vuelos utilizando Spring Boot y MongoDB para almacenar la información de los vuelos y los usuarios.
-- Tecnologías utilizadas: Java, Spring Boot, MongoDB, Spring Security
+### Project 2: Flight Booking Platform
+- Description: I contributed to the backend development of a flight booking platform using Spring Boot and MongoDB to store flight and user information.
+- Technologies Used: Java, Spring Boot, MongoDB, Spring Security
 
-## Educación
-- Estudiante de Ingeniería en Universidad Nacional de Colombia
+## Education
+- **Student of Engineering at University National of Colombia 
+- **Relevant Courses:**
+  - Spring Boot Web Application Development
+  - Relational Database
+  - Docker Mastery: with Kubernetes + Swarm from a Docker
+  - Kubernetes for Developers: Core Concepts on Pluralsight
+  - Microservices Architecture and Implementation
 
-
-## Contacto
-¡Si estás interesado en colaborar en algún proyecto o simplemente quieres charlar sobre tecnología, no dudes en contactarme!
+## Contact
+If you're interested in collaborating on Java/Spring Boot projects or have any questions about backend development, feel free to reach out!
 - LinkedIn: https://www.linkedin.com/in/dubhan-soto/
 
-¡Gracias por visitar mi perfil!
 
-
-<!--
-**erwinsot/erwinsot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile!
