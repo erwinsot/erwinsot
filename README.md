@@ -10,7 +10,7 @@
 - 👾**Other Skills:** Microservices Architecture, DevOps
 
 ## Contact
-🗨️ If you're interested in collaborating on projects or have any questions development, feel free to reach out!💬 
+🗨️ If you're interested in collaborating on projects or have any questions development, feel free to reach out! 💬 
 - LinkedIn: https://www.linkedin.com/in/dubhan-soto/
 
 
