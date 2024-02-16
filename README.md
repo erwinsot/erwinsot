@@ -21,7 +21,7 @@ Soy un estudiante de ingeniería apasionado por el desarrollo de software, espec
 - Tecnologías utilizadas: Python, Flask, JWT, SQLAlchemy, SQLite
 
 ## Educación
-- **Estudiante de Ingeniería en Universidad Nacional de Colombia
+- Estudiante de Ingeniería en Universidad Nacional de Colombia
 
 
 ## Contacto
