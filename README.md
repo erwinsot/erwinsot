@@ -1,7 +1,7 @@
-# Hello! 👋 I'm Erwin
+# Hi There 👋 
 
-## About Me
-I'm a student of engineering with a specialized focus on backend development using Java and Spring Boot. I enjoy crafting robust and efficient applications that meet client needs. I have experience in designing and implementing RESTful APIs, as well as integrating with both relational and non-relational databases.
+I'm Erwin
+🖥️ I'm a Systems and Computer Engineer with a specialized focus on backend development using Java and Spring Boot. I enjoy creating robust and efficient applications that meet client needs. I have experience in designing and implementing RESTful APIs, as well as integrating with both relational and non-relational databases.
 
 ## My Skills
 - **Programming Languages:** Java, JavaScript
@@ -18,15 +18,6 @@ I'm a student of engineering with a specialized focus on backend development usi
 ### Project 2: Flight Booking Platform
 - Description: I contributed to the backend development of a flight booking platform using Spring Boot and MongoDB to store flight and user information.
 - Technologies Used: Java, Spring Boot, MongoDB, Spring Security
-
-## Education
-- **Student of Engineering at University National of Colombia 
-- **Relevant Courses:**
-  - Spring Boot Web Application Development
-  - Relational Database
-  - Docker Mastery: with Kubernetes + Swarm from a Docker
-  - Kubernetes for Developers: Core Concepts on Pluralsight
-  - Microservices Architecture and Implementation
 
 ## Contact
 If you're interested in collaborating on Java/Spring Boot projects or have any questions about backend development, feel free to reach out!
